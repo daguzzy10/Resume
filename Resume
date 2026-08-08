@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Resume</title>
+</head>
+<body>
+    <h1>Objective:</h1>
+    <p>To obtain a position as a web developer where I can have the opportunity to show my skills and talents. With this opportunity, I will be able to show the contribution I can
+    give to the company.</p>
+    <hr />
+    <h1>Education:</h1>
+    <ul> 
+      <li>West Jordan High School: Graduated in 2007</li>
+      <li>Salt Lake Community College: 2007-Current</li>
+    </ul>
+    <hr />
+    <h1>Work Experience:</h1>
+    <ul>
+      <li><h2>Medicare and Commercial Pharmacy Trainer - Select Health</h2>
+        <p>October 2019-July 2024</p>
+      </li>
+    </ul>
+    <ul>
+      <li><h2>Pharmacy Auditor - Select Health</h2>
+        <p>August 2024-Present</p>
+      </li>
+    </ul>
+    <hr />
+    <h1>Skills:</h1>
+    <ul>
+      <li>Customer Service</li>
+      <li>Centers for Medicare and Medicaid Services (CMS) experience</li>
+      <li>Microsoft Office Suite</li>
+      <li>HTML</li>
+    </ul>
+    <hr />
+</body>
+</html>
